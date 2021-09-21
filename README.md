@@ -14,4 +14,4 @@ A bubble chart was rendered to produce another helpful visualization for the met
 
 ## HTML
 
-An 'index.html' file was used to produce the dashboard space for the visualization content that was created. This index.html file is being hosted through a github repository in order to make it accesible. 
+An 'index.html' file was used to produce the dashboard space for the visualization content that was created. This index.html file is being hosted through a github repository in order to make it accesible. Github link: https://github.com/NCSUducker/plotly.github.io
